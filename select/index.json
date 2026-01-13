@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "bestie",
+  "base_artist": "muque",
+  "createdAt": "2026-01-13T23:07:23.213260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iko Iko (My Bestie) [feat. Small Jam]",
+      "artist": "Justin Wellington feat. Pedro Capó & Small Jam",
+      "has_synced": true,
+      "path": "select/01_Iko_Iko_(My_Bestie)_[feat._Small_Jam]_Justin_Wellington_feat._Pedro_Capó_&_Small_Jam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bestie mutanti",
+      "artist": "Articolo 31",
+      "has_synced": false,
+      "path": "select/02_Bestie_mutanti_Articolo_31.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Iko Iko (My Bestie) (feat. Small Jam)",
+      "artist": "Justin Wellington/Small Jam",
+      "has_synced": true,
+      "path": "select/03_Iko_Iko_(My_Bestie)_(feat._Small_Jam)_Justin_Wellington_Small_Jam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "Yungen feat. Yxng Bane",
+      "has_synced": true,
+      "path": "select/04_Bestie_Yungen_feat._Yxng_Bane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bestie (feat. Yxng Bane)",
+      "artist": "Yungen",
+      "has_synced": true,
+      "path": "select/05_Bestie_(feat._Yxng_Bane)_Yungen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "Yungen\\Yxng Bane",
+      "has_synced": true,
+      "path": "select/06_Bestie_Yungen_Yxng_Bane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HEY BESTIE",
+      "artist": "Neanderthal",
+      "has_synced": false,
+      "path": "select/07_HEY_BESTIE_Neanderthal.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bestie (in mir)",
+      "artist": "Sudden",
+      "has_synced": true,
+      "path": "select/08_Bestie_(in_mir)_Sudden.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "INSTASAMKA",
+      "has_synced": false,
+      "path": "select/09_Bestie_INSTASAMKA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "Wolfchant",
+      "has_synced": false,
+      "path": "select/10_Bestie_Wolfchant.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Iko Iko (My Bestie) (feat. Small Jam)",
+      "artist": "Justin Wellington, Small Jam",
+      "has_synced": true,
+      "path": "select/11_Iko_Iko_(My_Bestie)_(feat._Small_Jam)_Justin_Wellington,_Small_Jam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "DaBaby feat. YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/12_Bestie_DaBaby_feat._YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "DaBaby/YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/13_Bestie_DaBaby_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bestie",
+      "artist": "Yungen, Yxng Bane",
+      "has_synced": true,
+      "path": "select/14_Bestie_Yungen,_Yxng_Bane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bestie Di Seitan",
+      "artist": "NanowaR of Steel",
+      "has_synced": false,
+      "path": "select/15_Bestie_Di_Seitan_NanowaR_of_Steel.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bestie (Mixed)",
+      "artist": "Bhad Bhabie feat. Kodak Black",
+      "has_synced": true,
+      "path": "select/16_Bestie_(Mixed)_Bhad_Bhabie_feat._Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bestie (ft. Kodak Black)",
+      "artist": "Bhad Bhabie",
+      "has_synced": true,
+      "path": "select/17_Bestie_(ft._Kodak_Black)_Bhad_Bhabie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bestie",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_bestie_muque.txt"
+    }
+  ]
+}
